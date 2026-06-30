@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prueba-tupanaesqueleto.luckybase.es/sitemap.xml
